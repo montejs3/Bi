@@ -1,0 +1,13 @@
+Company (string): Fabricante de la laptop
+TypeName (string): Tipo de laptop
+Ram (int): Capacidad de la memoria RAM
+Weight (float): Peso en kilogramos
+Price (float): Precio en miles de Rupias
+TouchScreen (bool): Indica si la laptop cuenta con pantalla táctil
+Ips (bool): Indica si la laptop cuenta con pantalla IPS
+Ppi (float): Pixeles por pulgada de la pantalla
+Cpu_brand (string): Fabricante / referencia del procesador
+HDD (int): Capacidad del disco duro
+SSD (int): Capacidad del disco de estado sólido
+Gpu_brand (string): Fabricante de la tarjeta gráfica
+Os (string): Sistema operativo de la laptop
